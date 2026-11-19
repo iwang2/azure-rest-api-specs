@@ -16640,6 +16640,7 @@
         ],
         "properties": {
           "jobDefaultOrder": {
+            "type": "string",
             "allOf": [
               {
                 "$ref": "#/components/schemas/BatchJobDefaultOrder"
@@ -16663,6 +16664,7 @@
         "type": "object",
         "properties": {
           "jobDefaultOrder": {
+            "type": "string",
             "allOf": [
               {
                 "$ref": "#/components/schemas/BatchJobDefaultOrder"
