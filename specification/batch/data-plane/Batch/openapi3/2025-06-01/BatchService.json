@@ -18565,13 +18565,6 @@
         },
         "description": "The vm extension instance view."
       },
-      "Versions": {
-        "type": "string",
-        "enum": [
-          "2025-06-01"
-        ],
-        "description": "The Azure Batch service version."
-      },
       "VirtualMachineConfiguration": {
         "type": "object",
         "required": [
